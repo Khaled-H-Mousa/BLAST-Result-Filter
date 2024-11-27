@@ -1,4 +1,4 @@
-# BLAST Result Filter Script
+# BLAST Result Filter
 
 This Python script filters BLAST results based on specified criteria for **percent identity** and **alignment length**. It processes a tabular BLAST output file (`-outfmt 6`) and extracts entries that meet the thresholds. 
 
